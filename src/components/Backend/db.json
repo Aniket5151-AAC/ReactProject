@@ -1,0 +1,20 @@
+{
+  "student": [
+    {
+      "fname": "Virat",
+      "lname": "Kohli",
+      "mothername": "Saroj",
+      "fathername": "father",
+      "address": "Delhi",
+      "gender": "Male",
+      "other": null,
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "dob": "20 Dec 2001",
+      "pincode": "33332",
+      "course": "Cricket",
+      "emailid": "virat@gmail.com",
+      "id": "4f00"
+    }
+  ]
+}
