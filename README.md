@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+
+Institute Resource Management System
+Developed a responsive Institute Resource Management website using HTML and CSS,Key responsibilities and achievements, . Created a React CRUD Application with JSON server integration-Implemented component-based architecture-to utilize React components for modular and maintainable code. Dynamic student registration-allows seamless student enrollment,updates and deletion.Real-Time Data Handling-provides instant feedback and update through efficient CRUD operation.Responsive design-Ensures compatibility across various devices and screen sizes.# Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
